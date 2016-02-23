@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=escola
+%uri=https://github.com/aldmont/curso.git
+
+schema_escola 2016-02-23T14:45:53Z aldrin <aldrin.monteiro@armazemparaiba.com.br> # Add schema for escola
